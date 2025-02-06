@@ -1,0 +1,28 @@
+.header-container {
+  background: linear-gradient(to right, #4c6ef5, #9b51e0);
+  color: white;
+  border-radius: 8px;
+}
+
+.logo-icon {
+  font-size: 1.8rem;
+}
+
+.logout-btn {
+  border-radius: 6px;
+  transition: 0.3s ease-in-out;
+}
+
+.logout-btn:hover {
+  background: #007bff;
+}
+
+.header-logo {
+  position: absolute;
+  top: 33px;
+  left: 55px; 
+  width: 45px; 
+  height: auto;
+  border-radius: 25%;
+}
+
