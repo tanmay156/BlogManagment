@@ -28,7 +28,7 @@ The **Blog Management System** is a web application that allows users to create,
 ### Backend:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/tanmat156/BlogManagement.git
+   git clone https://github.com/tanmay156/BlogManagement.git
    cd blog-management/backend
    ```
 2. Configure database connection in `application.properties`.
